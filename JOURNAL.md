@@ -6,3 +6,24 @@
   ==================================================================
 -->
 
+## 10/25/2025 - Made The Idea | Positioned Schematic As Well  
+
+After making a custom macropad following the guide given by hackclub and different discord servers. However, I felt that I needed to make something bigger and better. Thats when I came up of the idea of making a 60% keyboard that has RGB, bluetooth and a volume knob(rotary encoder). I began brainstorming and positioning the parts in KiCad schematic editor such as the switches, rgb, MCU, etc. I do remember that I spent a lot of time experimenting with different MCU's because of the pins that I had. In the end, I chose to go with these parts:
+
+- x60 Morandi Switches
+- x60 Hot swap sockets
+- x1 Rotary Encoder EC11
+- x2 Tactile Switches TL1105AF160Q
+- x1 MINI-SPDT-SWITCH
+- x1 Nice!Nano v2
+- x1 Level Shifter 74LVCHZT45DC
+- x1 Shift Register 74HC595
+- JST 2 pin connector
+
+After finding and placing the parts in the schematic, I wired the components together. However, I was confused on some logics such as the volts, GND. Thankfully, some forums and the "Keyboard Atelier" discord helped me fix some issues.
+
+![Screenshot 2025-10-25 at 22.53.46](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--56914e111808b19bbfdcd328094687e9001eeecd/Screenshot%202025-10-25%20at%2022.53.46.png)
+
+
+Note: I didn't do this in one day, the hour I spent is just an estimate of the total I spent.  
+
