@@ -6,12 +6,3 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **60% keyboard **.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/304).
-
-
-## 10/8/2025 - Getting Back To Work! Positioned components in PCB Editor  
-
-Today, I positioned most of the components in PCB Editor to match the layout I wanted. I had to adjust some parts to make space for the battery. The next steps are to place the diodes and LED, and to determine which battery I will be using along with its size and specs."![Screenshot 2025-10-07 at 22.00.47.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMywicHVyIjoiYmxvYl9pZCJ9fQ==--4f6deaf4df42a9df7cfb22a16c7acdd6b44f16f7/Screenshot%202025-10-07%20at%2022.00.47.png)
-  
-
